@@ -1,0 +1,4 @@
+Tests
+1. GMT - 2
+2. GMA - 2
+3. GIS - 2
