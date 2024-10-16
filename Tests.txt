@@ -1,4 +1,4 @@
 Tests
 1. GMT - 2
-2. GMA - 2
-3. GIS - 2
+2. GMA - practical test
+3. GIS - semester test 2
